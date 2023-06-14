@@ -1,0 +1,13 @@
+{
+  "INPUT_FILES": [
+    "Newfile1"
+  ],
+
+  "OUTPUT_FILES": [
+    "result1"
+  ],
+
+  "TYPE": 2,
+  "EDGE_POINT_BIAS": 300,
+  "POINTS_TO_SMOOTH": 200
+}
